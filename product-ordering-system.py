@@ -144,16 +144,3 @@ while condition:
                 else:
                       condition=False
                       
-                
-                         
-             
-                    
-             
-                
-                    
-             
-
-
-
-
-
